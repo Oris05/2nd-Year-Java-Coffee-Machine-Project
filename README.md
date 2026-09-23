@@ -12,3 +12,6 @@ To practice: Java classes, objects, threads Encapsulation, state management and 
 
 How to run?
 Open the project in any Java‑supported IDE and run Coffee_Machine.java.
+
+<img width="663" height="304" alt="{F192EDD8-BB6E-4AE9-A2B1-A54F658B83CD}" src="https://github.com/user-attachments/assets/bb43e2f1-8343-48bc-abb8-9422f8cc9b4e" />
+
